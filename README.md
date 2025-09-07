@@ -98,5 +98,5 @@ ResNet50 ha fornito performance migliori rispetto a VGG16.
 ---
 
 ## Autore
-Antonino Maenza
+Antonino Maenza  
 Progetto sviluppato durante la magistrale in Ingegneria Biomedica presso l’Università degli Studi di Palermo.
