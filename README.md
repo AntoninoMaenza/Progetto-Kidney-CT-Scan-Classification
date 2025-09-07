@@ -45,9 +45,10 @@ Il notebook assume che i dati si trovino nella cartella:
 ## Workflow
 
 - **Preprocessing delle immagini:**
-  - Ridimensionamento
+
+  - Creazione del DataFrame con path, etichette e dimensioni immagini 
   - Equalizzazione dell’istogramma con OpenCV
-  - Creazione del DataFrame con path, etichette e dimensioni immagini
+  - Ridimensionamento
   - Caricamento in batch con PyTorch DataLoader
 
 - **Definizione del modello con architetture pre-addestrate:**
