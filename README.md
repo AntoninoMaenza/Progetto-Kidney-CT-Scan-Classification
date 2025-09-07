@@ -11,7 +11,7 @@ L’obiettivo è applicare tecniche di **Deep Learning** con **transfer learning
 
 ---
 
-## 📂 Contenuto del Repository  
+## Contenuto del Repository  
 
 - `Progetto-Kidney-CT-Scan-Classification.ipynb` → notebook sviluppato interamente su **Google Colab**  
 - `README.md` → descrizione del progetto  
@@ -20,7 +20,7 @@ L’obiettivo è applicare tecniche di **Deep Learning** con **transfer learning
 
 ---
 
-## 📥 Download del Dataset  
+## Download del Dataset  
 
 Il dataset **CT KIDNEY DATASET (Normal, Cyst, Tumor, Stone)** è disponibile su Kaggle al seguente link: 
 https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone 
@@ -65,13 +65,13 @@ Il notebook assume che i dati si trovino nella cartella:
 
 ---
 
-## 📈 Risultati
+## Risultati
 
 ResNet50 ha fornito performance migliori rispetto a VGG16.
 
 ---
 
-## 🔑 Tecnologie Utilizzate
+## Tecnologie Utilizzate
 - Google Colab (GPU gratuita)
 
 - Python
@@ -88,7 +88,7 @@ ResNet50 ha fornito performance migliori rispetto a VGG16.
 
 ---
 
-## 🚀 Come Eseguire
+## Come Eseguire
 1. Aprire il notebook direttamente in Google Colab.
 
 2. Caricare il dataset come indicato sopra.
@@ -97,6 +97,6 @@ ResNet50 ha fornito performance migliori rispetto a VGG16.
 
 ---
 
-## 👤 Autore
+## Autore
 Antonino Maenza
 Progetto sviluppato durante la magistrale in Ingegneria Biomedica presso l’Università degli Studi di Palermo.
